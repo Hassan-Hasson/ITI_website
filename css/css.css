@@ -1,0 +1,106 @@
+.header{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+a{
+    text-decoration-line: none;
+}
+.link{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-right: 50px; 
+    margin-top: 25px;
+    margin-left: 50px;
+    text-decoration-line: none;
+}
+
+
+.list{
+    text-align: center;
+}
+.product-list{
+    margin: 0% 100px 0% 100px;
+    /* display: inline-block; */
+    /* margin: 30px 15px 30px 15px; */
+    width: 100%;
+    /* border: 2px solid gray; */
+    /* border-radius: 50%; */
+    /* display: inline-block; */
+}
+li{
+    margin: 0% 20px 20px 20px;
+    list-style-type: none;
+    display: inline-block;
+    /* border: solid gray 2px; */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    width: 15%;
+    height: 15%;
+}
+
+.sec1{
+    width: 100%;
+    height: 50%;
+    text-align: center;
+}
+.proImage{
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+}
+
+ins{
+    text-decoration-line: none;
+    display: inline-block;
+    margin: 16px 0px 0px 25px;
+}
+.add{
+    display: inline-block;
+    float: right;
+    width: 40px;
+    height: 40px;
+    margin: 5px 25px 0px 0px;
+    border-radius: 50%;
+    background-color:orange;
+}
+
+.sec2{
+    margin: 0 auto;
+    display: inline-block;
+    /* border: solid red 2px; */
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.square{
+    width: 50%;
+    height: 200px;
+    /* border-radius: 50%; */
+    border: solid red 2px;
+    /* border-radius: 50%; */
+    background-color:black;
+}
+.btn{
+    width: 80%;
+    background-color: rgb(45, 45, 170);
+    border:0px;
+    border-radius: 2px;
+}
+
+
+input,textarea{
+    width: 50%;
+    height:50px;
+    margin: 50px;  
+    margin-bottom: 10px; 
+    padding-left: 6px;
+    border: 2px solid gainsboro;
+    border-radius: 4px;
+}
+.formDiv{
+    text-align: center;
+}
